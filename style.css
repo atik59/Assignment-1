@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .fisrtSection, .third{
@@ -35,6 +36,17 @@
 .secondSection h1{
     color: red;
     font-size: 50px;
+    margin: 20px 0px;
+}
+.secondSection div h3{
+    color: red;
+    font-size: 12px;
+    margin: 10px 0;
+}
+
+.secondSection div h2{
+    font-size: 30px;
+    margin: 10px 0;
 }
 
 .third{
