@@ -7,7 +7,7 @@
 
 .fisrtSection, .third{
     width: 70%;
-    height: 300px;
+    height: auto;
     background-image: url("resources/Banner\ Image.png");
     background-repeat: round;
     margin: 50px auto;
@@ -68,4 +68,35 @@
     text-decoration: none;
     margin-left: 30px;
     
+}
+
+.sectiomFour{
+    width: 70%;
+    margin: 30px auto;
+    background-color: rgb(255, 239, 219);
+    padding: 50px;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 5px;
+
+}
+
+.sectiomFour h2{
+    margin: 10px;
+}
+
+.sectiomFour span{
+    color: red;
+}
+
+.sectiomFour button{
+    padding: 8px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    background-color: #FF0000;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    color: white;
+    font-size: 12px;
 }
