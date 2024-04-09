@@ -178,3 +178,43 @@
     width: 30%;
     margin: 10px;
 }
+
+.sectionSaven{
+    width: 70%;
+    margin: 20px auto;
+    text-align: center;
+    background-color: rgb(235, 209, 199);
+    padding: 30px;
+}
+
+.sectionSaven img{
+    width: 80px;
+}
+
+.sectionSaven h1{
+    margin: 10px;
+}
+
+.sectionSaven p{
+    margin: 20px;
+    color: rgb(189, 191, 192);
+}
+
+.sectionSaven input{
+    width: 25%;
+    height: 35px;
+    margin: 0;
+    border: none;
+    padding: 10px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.sectionSaven button{
+    width: 15%;
+    height: 35px;
+    margin: 0;
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    color: white;
+    background-color: #FF0000;
+}
