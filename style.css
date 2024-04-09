@@ -21,6 +21,22 @@
     margin: 5px 0;
 }
 
+.secondSection{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+}
+.secondSection div img{
+    width: 100%;
+}
+
+.secondSection h1{
+    color: red;
+    font-size: 50px;
+}
+
 .third{
     text-align: left;
     background-image: url("resources/Vectorrr.png");
@@ -38,4 +54,6 @@
     text-transform: uppercase;
     text-align: left;
     text-decoration: none;
+    margin-left: 30px;
+    
 }
