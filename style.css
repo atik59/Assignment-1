@@ -101,6 +101,41 @@
     font-size: 12px;
 }
 
+
+.commingSoon{
+    width: 70%;
+    margin: 50px auto;
+    display: flex;
+
+}
+
+.commingSoon h1{
+    margin: 10px 0;
+}
+.commingSoon p{
+    font-size: 12px;
+    margin: 20px 0px; 
+}
+
+.commingSoon div{
+    margin: 20px;
+    
+}
+.commingSoon div img{
+    width: 200px;
+    border: 5px solid red;
+    border-radius: 50%;
+}
+
+.commingSoon h4{
+    color: #FF0000;
+}  
+.commingSoon .Sub-img{
+    width: 100px;
+    border: none;
+}
+
+
 .sectiomFive{
     width: 70%;
     height: 550px;
