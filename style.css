@@ -152,3 +152,29 @@
     bottom: 0%;
     left: 0%;
 }
+
+.secondSix{
+    width: 70%;
+    height: auto;
+    margin: 60px auto;
+}
+
+.secondSix h4{
+    color: #FF0000;
+    text-transform: uppercase;
+}
+
+.secondSix h1{
+    margin: 10px 0;
+}
+
+.secondSix p{
+    color: rgb(200, 200, 201);
+    font-size: 12px;
+    margin: 10px 0;
+}
+
+.secondSix img{
+    width: 30%;
+    margin: 10px;
+}
