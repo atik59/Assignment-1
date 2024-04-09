@@ -253,3 +253,18 @@
     color: white;
     background-color: #FF0000;
 }
+
+
+footer{
+    width: 100%;
+    height: auto;
+    background-color: rgb(27, 25, 25);
+    padding: 30px;
+    color: white;
+}
+
+.footersectionTwo, img{
+    width: 30px;
+    margin: 30px auto;
+
+}
